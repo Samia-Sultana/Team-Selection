@@ -1,0 +1,12 @@
+.App{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+    background-color: rgb(235, 243, 235);
+}
+.teamSummary{
+    position:fixed;
+    top:5%;
+    left: 70%;
+    
+}
